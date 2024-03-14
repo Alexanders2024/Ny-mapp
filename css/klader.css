@@ -1,0 +1,150 @@
+.newswindow{
+    width: 70vw;
+    height: 50vh;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.mainheader{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 10px;
+    
+}
+.pageheader{
+    background-size: cover;
+    height: 100px;
+}
+
+a{
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    background: none;
+    padding:  10px; 
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+}
+a:hover{
+    background: none;
+}
+li{
+    display: inline;
+    
+}
+.menu{
+    margin-top: 50px;
+}
+.absolute{
+    position: absolute;
+    left:570px;
+    bottom: 100px;
+ font-size: xx-large;
+ color: white;
+font-family:'Times New Roman', Times, serif;
+background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    color:black;
+    
+}
+.produkter{
+display: flex;
+flex-direction: row;
+padding: 100px;
+margin: 10px;
+margin-top:10px;
+}
+.produkt1{
+    padding-right: 200px;
+}
+.produkt2{
+    padding-right: 200px;
+   
+}
+.produkter2{
+    display: flex;
+    flex-direction: row;
+    padding: 100px ;
+    margin: 10px;
+    margin-bottom: 10px;
+}
+.produkt4{
+    padding-right: 200px;
+}
+.produkt5{
+    padding-right: 200px;
+}
+
+
+
+
+
+
+
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    float: none;
+    
+}
+.footeritem{
+padding-right: 300px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-left: 5px;
+}
+.hej{
+    padding-right: 0px;
+}
+
+:link{
+    text-decoration: none;
+    font-size: medium;
+    
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
