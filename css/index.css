@@ -53,6 +53,22 @@ li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
+.absolute6{
+    position: absolute;
+    left: 620px;
+    bottom: 245px ;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    color:black;
+}
+
+
+
 .absolute3{
     position: absolute;
     left: 620px;
@@ -60,7 +76,6 @@ li{
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: small;
-    
     background-color: white;
     padding: 10px;
     text-decoration: none;
