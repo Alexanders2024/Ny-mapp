@@ -39,21 +39,29 @@ li{
 }
 
 
-.pricelist{
-    border-style: solid;
-     border-color: green;
-     font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-     padding: 2px;
-     margin-left: 20px; 
-   }
- 
- .pricelist th{
-     padding: 20px; 
- }
- .produktflex{
+
+ .produktflex1{
      display: flex;
      margin: auto;
+     padding-right: 200px;
+     margin: 10px;
+     padding: 20px;
  }
+ 
+ .produktflex2{
+    display: flex;
+    margin: auto;
+    padding-right: 200px;
+    margin: 10px;
+    padding: 20px;
+}
+.produktflex3{
+    display: flex;
+    margin: auto;
+    padding-right: 200px;
+    margin: 10px;
+    padding: 20px;
+}
  
  .productimage{
      margin-left: 20px;
@@ -85,23 +93,22 @@ li{
 
 
 
-
-
-.footer{
+ .footer{
     display: flex;
     flex-direction: row;
-
     float: none;
+    border: 2px solid grey;
+    
 }
 .footeritem{
-padding-right: 380px;
+padding-right: 300px;
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: medium;
+
 }
+
 .hej{
     padding-right: 0px;
 }
-
 
 
 

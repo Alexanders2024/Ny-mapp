@@ -136,22 +136,22 @@ padding: 20px;
 
 
 
-
 .footer{
     display: flex;
     flex-direction: row;
     float: none;
+    border: 2px solid grey;
     
 }
 .footeritem{
 padding-right: 300px;
 font-family: Georgia, 'Times New Roman', Times, serif;
-padding-left: 5px;
+
 }
+
 .hej{
     padding-right: 0px;
 }
-
 :link{
     text-decoration: none;
     font-size: medium;

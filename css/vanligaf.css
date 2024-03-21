@@ -44,14 +44,16 @@ li{
     display: flex;
     flex-direction: row;
     float: none;
+    border: 2px solid grey;
     
 }
 .footeritem{
-padding-right: 400px;
+padding-right: 300px;
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: medium;
 
 }
+
 .hej{
     padding-right: 0px;
 }
+  
