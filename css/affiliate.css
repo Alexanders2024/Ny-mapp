@@ -37,7 +37,23 @@ li{
 .menu{
     margin-top: 50px;
 }
+.absolute2{
+    position: absolute;
+    left: 605px; ;
+    bottom: 500px;
+    color:white;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
 
+.absolute{
+    position: absolute;
+    bottom: 280px;
+ font-size: medium;
+ color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+}
 
 
 .footer{
