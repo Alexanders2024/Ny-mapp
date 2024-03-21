@@ -40,22 +40,21 @@ li{
 
 
 
- .produktflex1{
-     display: flex;
-     margin: auto;
-     padding-right: 200px;
-     margin: 10px;
-     padding: 20px;
- }
+ .produktimage1{
+        border: 1px solid grey;
+        margin: 10px;
+        padding: 20px;
+    }
  
- .produktflex2{
+ 
+ .produktimage2{
     display: flex;
     margin: auto;
     padding-right: 200px;
     margin: 10px;
     padding: 20px;
 }
-.produktflex3{
+.produktimage3{
     display: flex;
     margin: auto;
     padding-right: 200px;
